@@ -3,13 +3,14 @@
 
 ![Simple Technology LinkedIn Banner ](https://user-images.githubusercontent.com/67514128/200857209-8a78855a-d36f-4419-9461-68b0d7c6eafa.png)
 
-I .
+- I decided to pursue my passion for coding and the web in Platzi Master, an intensive program in which I created various projects focused on creating server-side rendering web applications and using technologies such as React, Sass, Less, and
+Backend using tecnoligies how Node.js  and Express ,MongoDB ,code versioning in Git , deployment of projects on Github, Netlify.
 
 - 🌱 I’m currently learning at **Plazi Master Program**
 
 - 📫 How to reach me **aprado1012@gmail.com**
 
- - ⚡ React ⚡ Node ⚡ Javascript ⚡ Sass ⚡ Less ⚡ HTML ⚡ MongoDB
+ - ⚡ React ⚡ Node ⚡ Javascript ⚡ Sass ⚡ Less ⚡ Express ⚡ MongoDB
 
 
 <h3 align="left">Languages and Tools:</h3>
