@@ -6,6 +6,8 @@
 - I decided to pursue my passion for coding and the web in Platzi Master, an intensive program in which I created various projects focused on creating server-side rendering web applications and using technologies such as React, Sass, Less, and
 Backend using tecnoligies how Node.js  and Express ,MongoDB ,code versioning in Git , deployment of projects on Github, Netlify.
 
+- Further I have knowledge acquired in the career I studied where I learned to use C++, good practices and programming paradigms.
+
 - 🌱 I’m currently learning at **Plazi Master Program**
 
 - 📫 How to reach me **aprado1012@gmail.com**
